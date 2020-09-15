@@ -63,7 +63,6 @@ def add_characters
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
-puts epic_tragedy
 
 
 
@@ -71,3 +70,4 @@ puts epic_tragedy
    # After your code, the following line will return the altered hash
    epic_tragedy
 end
+
